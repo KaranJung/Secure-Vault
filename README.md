@@ -83,3 +83,5 @@ A PHP-based web application for securely managing API credentials with:
 - API access for automation
 - Browser extension integration
 - Team/sharing functionality
+
+
