@@ -1,5 +1,6 @@
 # Secure API Vault - Architecture Documentation
 Live: https://vault.bugmenepal.xyz/
+Email: underside001@gmail.com
 
 ## 1. System Overview
 A PHP-based web application for securely managing API credentials with:
